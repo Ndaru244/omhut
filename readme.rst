@@ -9,7 +9,7 @@ Pastikan Username Dan Password pada konfigurasi databse di update sesuai konfigu
 Daftar Akun Pada Aplikasi Omhut
 -------------------------------
 
-Untuk mengakses pada halaman admin atau pegawai tambahkan kata ``"\admin"`` pada link contoh ``"://omhut/admin"``. dan import terlebih dahulu database di dalam folder database.
+Untuk mengakses pada halaman admin atau pegawai tambahkan kata ``"/admin"`` pada link contoh ``"https://omhut/admin"``. dan import terlebih dahulu database di dalam folder database.
 
 
 +------------------------+------------+--------------+
